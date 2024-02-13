@@ -1,6 +1,6 @@
-# OCTANET_JANUARY.
+# MINI PROJECT.
 <br>
-This is my Task 2 repository.
+This is my GIT repository.
 
-## To-Do List 
+## Just-Do-It List 
 
